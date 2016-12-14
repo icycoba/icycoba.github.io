@@ -1,5 +1,7 @@
 * { 
   border: 1px solid rgba(0, 0, 0, 0.3);
+  margin: 0;
+  padding: 0;
 }
 
 .topOfThePage {
@@ -33,7 +35,6 @@ body {
   margin: 5px auto;
   width: 300px;
   padding: 5px 10px;
-  background-color: rgba(84, 84, 84, 0.66);
 }
 
 #question {
@@ -46,4 +47,9 @@ body {
   width: 300px;
   margin: 5px auto;
   padding: 5px 10px;
+}
+
+#welcome, #question, #thought {
+  background-color: rgba(84, 84, 84, 0.66);
+  color: #FFFFFF
 }
