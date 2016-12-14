@@ -12,7 +12,7 @@
 
 .links {
   font-family: 'Raleway', sans-serif;
-  background-color: rgba(81, 81, 81, 0.66);
+  background-color: rgba(151, 128, 116, 0.66);
   padding: 10 30 10 30;
 }
 
@@ -23,4 +23,9 @@ body {
 
 #linkText {
   text-align: center;
+}
+
+#welcome {
+  border: 5 10 5 10;
+  background-color: rgba(151, 128, 116, 0.66);
 }
