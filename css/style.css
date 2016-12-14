@@ -6,7 +6,9 @@
   font-family: 'Aref Ruqaa', serif;
   font-size: 16px;
   margin: 30px auto;
+  padding: 5 10 5 10;
   text-align: center;
+  background-color: rgba(151, 128, 116, 0.66);
 }
 
 .links {
