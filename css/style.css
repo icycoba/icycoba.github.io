@@ -26,14 +26,14 @@ body {
 }
 
 .topOfThePageText {
-  margin: 5px 0px auto;
+  color: rgb(0,0,0);
 }
 
 #welcome {
+  margin: 5px 0px auto;
   width: 300px;
   padding: 5px 10px;
   background-color: rgba(84, 84, 84, 0.66);
-  color: rgb(0,0,0);
 }
 
 #question {
