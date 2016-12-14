@@ -6,8 +6,9 @@
   font-family: 'Aref Ruqaa', serif;
   font-size: 16px;
   background-image: url("http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/105600/d981d4b60493038d842305377faaa10d33d53964.jpg");
-  margin: auto;
+  margin: 30px auto;
   padding: 0;
+  text-align: center;
 }
 
 .links{
