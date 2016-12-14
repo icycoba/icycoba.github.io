@@ -25,6 +25,9 @@ body {
 
 #linkText {
   text-align: center;
+  width: 250px;
+  background-color: rgba(84, 84, 84, 0.66);
+  margin: 5px auto;
 }
 
 .topOfThePageText {
