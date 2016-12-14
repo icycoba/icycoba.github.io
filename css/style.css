@@ -60,3 +60,19 @@ body {
   padding: 30px 0px;
 }
 
+.linkLinks a {
+  background: rgba(33, 34, 29, 0.4)
+  border: 1px solid rgba(33, 34, 29, 1)
+  color: #FFFFFF;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+}
+
+.linkLinks a:hover {
+  background: rgba(33, 34, 29, 1);
+  border: 1px solid rgba(33, 34, 29, 1);
+  color: #FFFFFF;
+  animation: ease;
+}
