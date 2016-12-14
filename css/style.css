@@ -2,7 +2,7 @@
   border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
-.topOfThePage{
+.topOfThePage {
   font-family: 'Aref Ruqaa', serif;
   font-size: 16px;
   margin: 30px auto;
@@ -10,13 +10,18 @@
   text-align: center;
 }
 
-.links{
+.links {
   font-family: 'Raleway', sans-serif;
   background-color: #ADADAD;
-  opacity: 75%
+  opacity: 0.66;
+  padding: 10 30 10 30;
 }
 
-body{
+body {
   background-image: url("http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/105600/d981d4b60493038d842305377faaa10d33d53964.jpg");
+  margin: auto;
+}
+
+#linkText {
   margin: auto;
 }
