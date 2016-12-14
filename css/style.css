@@ -19,6 +19,9 @@
 
 body {
   background-image: url("http://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/105600/d981d4b60493038d842305377faaa10d33d53964.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
   margin: auto;
 }
 
