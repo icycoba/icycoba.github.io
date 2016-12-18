@@ -97,3 +97,9 @@ body {
 #profilePicture {
   border-radius: 100%;
 }
+
+.bottomOfThePage {
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  font-size: 16px;
+}
