@@ -5,3 +5,12 @@
   font-family: "Oswald", sans-serif;
 }
 
+.topOfThePage {
+  text-align: center;
+}
+
+#spssVsetinLogo {
+  height: 250px;
+  width: 250px;
+  margin: 30px auto;
+}
