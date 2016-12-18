@@ -39,7 +39,7 @@ body {
 .topOfThePageText {
   color: rgb(0,0,0);
   margin: 5px auto;
-  width: 550px;
+  width: 450px;
   padding: 5px 10px;
   border-radius: 5px;
   background-color: rgba(84, 84, 84, 0.66);
@@ -53,13 +53,13 @@ body {
 }
 
 #question {
-  width: 250px;
+  width: 350px;
   margin: 5px auto;
   padding: 5px 10px;
 }
 
 #thought {
-  width: 300px;
+  width: 400px;
   margin: 5px auto;
   padding: 5px 10px;
 }
