@@ -117,3 +117,12 @@ body {
   color: rgb(0, 0, 0);
   background: rgb(206,206,206);
 }
+
+.middleOfThePageEnd {
+  height: 250px;
+  width: auto;
+  z-index: 2;
+  margin: 0px;
+  color: rgb(0, 0, 0);
+  background: linear-gradient(to bottom, rgba(206,206,206,1) 100%, rgba(206,206,206,0) 0%);
+}
