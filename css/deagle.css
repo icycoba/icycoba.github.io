@@ -5,6 +5,7 @@
 }
 
 .text {
+  display: table;
   height: 90px;
   line-height: 90px;
   text-align: center;
