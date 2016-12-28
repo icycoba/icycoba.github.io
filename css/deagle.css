@@ -15,7 +15,7 @@ body {
   height: 90px;
   line-height: 90px;
   text-align: center;
-  margin: 475px auto;
+  margin: 475px auto 0 auto;
   padding: 5px 10px;
   vertical-align: middle;
 }
