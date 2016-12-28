@@ -37,5 +37,5 @@ body {
 
 #deaglePic a:hover {
   transform:rotate(360deg);
-  animation: spin 1s linear infinite;
+  animation:spin 1s linear infinite;
 }
