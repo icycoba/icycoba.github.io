@@ -32,9 +32,9 @@ body {
 }
 
 #deaglePic a {
-  transform:rotate(0deg)
+  transform:rotate(0deg);
 }
 
 #deaglePic a:hover {
-  transform:rotate(360deg)
+  transform:rotate(360deg);
 }
