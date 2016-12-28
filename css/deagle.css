@@ -6,8 +6,8 @@
 
 body {
   vertical-align: middle;
-  height: 900px;
-  width: 100%;
+  height: 99%;
+  width: 99%;
 }
 
 .bodyText {
@@ -15,7 +15,7 @@ body {
   height: 90px;
   line-height: 90px;
   text-align: center;
-  margin: 50px auto;
+  margin: 50% auto;
   padding: 5px 10px;
   vertical-align: middle;
 }
