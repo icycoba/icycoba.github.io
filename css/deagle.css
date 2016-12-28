@@ -30,3 +30,11 @@ body {
 #deaglePic {
   border-radius: 50%;
 }
+
+#deaglePic a {
+  transform:rotate(0deg)
+}
+
+#deaglePic a:hover {
+  transform:rotate(360deg)
+}
