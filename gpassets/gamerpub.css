@@ -11,7 +11,8 @@
 }
 
 #picture {
-  padding: 30px auto;
+  display: block;
+  margin: 30px auto;
 }
 
 #title {
