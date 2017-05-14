@@ -18,6 +18,7 @@
 }
 
 .productListUpper {
+  position: absolute;
   background-color: black;
   width: 500px;
   left: 0px;
@@ -25,6 +26,7 @@
 }
 
 .productListAlcohol {
+  position: absolute;
   background-color: black;
   width: 500px;
   /*left: 710px;*/
@@ -33,6 +35,7 @@
 }
 
 .productListLower {
+  position: absolute;
   background-color: black;
   right: 0px;
   width: 500px;
