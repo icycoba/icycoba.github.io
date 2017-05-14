@@ -14,5 +14,10 @@
 
 .productListUpper {
   width: 500px;
-  float: left
+  float: left;
+}
+
+.productListLower {
+  width: 500px;
+  float: right;
 }
