@@ -12,6 +12,10 @@
   float: right;
 }
 
+.productList {
+  position: relative;
+}
+
 .productListUpper {
   width: 500px;
   left: 0px;
