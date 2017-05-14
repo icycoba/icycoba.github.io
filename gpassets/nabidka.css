@@ -22,9 +22,10 @@
 .productListAlcohol {
   position: absolute;
   width: 500px;
-  left: auto;
+  left: 50%;
   top: 0px;
 }
+
 .productListLower {
   position: absolute;
   right: 0px;
