@@ -13,7 +13,6 @@
 }
 
 .productListUpper {
-  position: absolute;
   width: 500px;
   left: 0px;
   /*margin: 0px 210px 0px 0px;*/
@@ -26,7 +25,6 @@
 }
 
 .productListLower {
-  position: absolute;
   right: 0px;
   width: 500px;
 }
