@@ -17,14 +17,12 @@
 }
 
 .productListUpper {
-  position: absolute;
   width: 500px;
   left: 0px;
   margin: 0px;
 }
 
 .productListAlcohol {
-  position: absolute;
   width: 500px;
   /*left: 710px;*/
   top: 0px;
@@ -32,7 +30,6 @@
 }
 
 .productListLower {
-  position: absolute;
   right: 0px;
   width: 500px;
 }
