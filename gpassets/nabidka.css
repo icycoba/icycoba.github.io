@@ -43,6 +43,6 @@
   width: 500px;
 }
 
-.productListUpper, .productListAlcohol, .productListLower {
+.productList, .productListUpper, .productListAlcohol, .productListLower {
   overflow: visible;
 }
