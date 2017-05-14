@@ -5,5 +5,7 @@
 }
 
 .fb-page {
+  width: 500px;
   margin: 5px auto;
+  padding: 5px;
 }
