@@ -10,7 +10,11 @@
   text-align: center;
 }
 
-.title {
+#picture{
+  margin: 30px auto;
+}
+
+#title {
   font-family: 'Press Start 2P', cursive;
   font-size: 48px;
   text-align: center;
