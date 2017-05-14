@@ -14,7 +14,7 @@
 
 .productList {
   background-color: blue;
-  position: relative;
+  position: absolute;
   height: 1000px;
 }
 
