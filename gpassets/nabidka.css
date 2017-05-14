@@ -15,19 +15,18 @@
 .productListUpper {
   position: absolute;
   width: 500px;
-  float: left;
+  left: 0px;
   margin: 0px auto;
-  text-align: left;
 }
 
 .productListAlcohol {
   position: absolute;
   width: 500px;
-  left: auto;
+  left: 501px;
   top: 40px;
 }
 .productListLower {
   position: absolute;
+  left: 1001px;
   width: 500px;
-  float: right;
 }
