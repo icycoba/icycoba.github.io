@@ -15,9 +15,7 @@
 .productListUpper {
   width: 500px;
   float: left;
-  position: absolute;
-  top: 50%;
-  left: 50%;
+  margin: 0px auto;
 }
 
 .productListLower {
