@@ -27,6 +27,6 @@
 }
 .productListLower {
   position: absolute;
-  left: 1001px;
+  right: 0px;
   width: 500px;
 }
