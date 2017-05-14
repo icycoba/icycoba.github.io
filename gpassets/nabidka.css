@@ -17,9 +17,9 @@
 }
 
 .productListUpper, .productListAlcohol, .productListLower {
-  width: 200px;
+  width: 500px;
   margin: 5px auto;
-  padding: 1px;
+  padding: 5px;
 }
 
 /* .productList {
