@@ -13,16 +13,19 @@
 }
 
 .productList {
+  background-color: blue;
   position: relative;
 }
 
 .productListUpper {
+  background-color: black;
   width: 500px;
   left: 0px;
   margin: 0px;
 }
 
 .productListAlcohol {
+  background-color: black;
   width: 500px;
   /*left: 710px;*/
   top: 0px;
@@ -30,6 +33,7 @@
 }
 
 .productListLower {
+  background-color: black;
   right: 0px;
   width: 500px;
 }
