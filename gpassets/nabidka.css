@@ -13,13 +13,21 @@
 }
 
 .productListUpper {
+  position: absolute;
   width: 500px;
   float: left;
   margin: 0px auto;
-  text-align: center;
+  text-align: left;
 }
 
+.productListAlcohol {
+  position: absolute;
+  width: 500px;
+  left: auto;
+  top: 40px;
+}
 .productListLower {
+  position: absolute;
   width: 500px;
   float: right;
 }
