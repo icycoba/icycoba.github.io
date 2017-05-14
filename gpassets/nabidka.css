@@ -12,7 +12,7 @@
   float: right;
 }
 
-.productList {
+/* .productList {
   background-color: blue;
   position: absolute;
   height: 1000px;
@@ -31,7 +31,7 @@
   position: absolute;
   background-color: black;
   width: 500px;
-  /*left: 710px;*/
+  left: 710px;
   top: 0px;
   margin: 0px 0px 0px 710px;
 }
@@ -45,4 +45,4 @@
 
 .productList, .productListUpper, .productListAlcohol, .productListLower {
   overflow: visible;
-}
+}*/
