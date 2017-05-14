@@ -42,3 +42,7 @@
   right: 0px;
   width: 500px;
 }
+
+.productListUpper, .productListAlcohol, .productListLower {
+  overflow: visible;
+}
