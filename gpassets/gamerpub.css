@@ -103,15 +103,18 @@
 .oDoba h2 {
   font-family: 'Press Start 2P', cursive;
   font-size: 32px;
+  padding: 5px 20px;
 }
 
 .oDoba li {
   font-family: 'VT323', monospace;
   font-size: 32px;
   margin: 5px 0px 0px 0px;
+  padding: 5px 10px;
 }
 
 .oDoba p {
   font-family: 'VT323', monospace;
   font-size: 24px;
+  padding: 5px 10px;
 }
