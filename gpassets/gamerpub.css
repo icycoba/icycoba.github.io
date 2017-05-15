@@ -96,7 +96,7 @@
 .oDoba {
   background-color: red;
   text-align: center;
-  padding: 20px;
+  margin: 20px auto;
   z-index: 9003;
 }
 
