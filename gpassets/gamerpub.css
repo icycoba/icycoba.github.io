@@ -5,6 +5,10 @@
   /*font-family: Comic Sans MS;*/
 }
 
+body {
+  background: rgba(204, 204, 204, 1);
+}
+
 .basicText {
   font-family: 'VT323', monospace;
   font-size: 24px;
