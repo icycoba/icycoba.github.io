@@ -39,7 +39,7 @@
 
 .links a {
   background: rgba(33, 34, 29, 0.4);
-  border: 1px solid rgba(33, 34, 29, 1);
+  /*border: 1px solid rgba(33, 34, 29, 1);*/
   color: #FFFFFF;
   display: inline-block;
   margin: 0px 0px 0px 10px;
