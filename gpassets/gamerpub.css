@@ -98,3 +98,8 @@
 .basicText, #picture, #title, .oDoba, .linksContainer {
   filter: blur(0px);
 }
+
+.oDoba h2 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 32px;
+}
