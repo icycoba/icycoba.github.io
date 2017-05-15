@@ -46,6 +46,7 @@
   padding: 10px;
   text-transform: uppercase;
   text-decoration: none;
+  font-family: 'VT323', monospace;
 }
 
 .links a:hover {
