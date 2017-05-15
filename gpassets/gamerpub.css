@@ -36,3 +36,21 @@
   padding: auto 0px;
   margin: 5px 0px;
 }
+
+.links a {
+  background: rgba(33, 34, 29, 0.4);
+  border: 1px solid rgba(33, 34, 29, 1);
+  color: #FFFFFF;
+  display: inline-block;
+  margin: 10px 10px;
+  padding: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.links a:hover {
+  background: rgba(33, 34, 29, 1);
+  border: 1px solid rgba(33, 34, 29, 1);
+  color: #FFFFFF;
+  animation: ease;
+}
