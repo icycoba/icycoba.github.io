@@ -1,11 +1,11 @@
 * {
-  /*border: 1px solid rgb(0, 0, 0);*/
+  border: 1px solid rgb(0, 0, 0);
   margin: 0;
   padding: 0;
   /*font-family: Comic Sans MS;*/
 }
 
-.pageBg {
+div {
   background-image: url("gamerpubbg.png");
   filter: blur(13px);
   height: 100%;
