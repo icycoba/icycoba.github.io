@@ -5,7 +5,7 @@
   /*font-family: Comic Sans MS;*/
 }
 
-.pageBg {
+/*.pageBg {
   background: url("gamerpubbg.png") no-repeat center;
   background-size: cover;
   position: absolute;
@@ -17,7 +17,7 @@
   height: 100%;
   width: 100%;
   z-index: 0;
-}
+}*/
 
 .basicText {
   font-family: 'VT323', monospace;
