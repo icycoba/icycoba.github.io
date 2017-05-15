@@ -64,6 +64,7 @@ body {
   font-family: 'VT323', monospace;
   font-size: 32px;
   z-index: 9005;
+  filter: blur(0px);
 }
 
 .links a:hover {
@@ -72,4 +73,9 @@ body {
   color: #FFFFFF;
   animation: ease;
   z-index: 9005;
+  filter: blur(0px);
+}
+
+.basicText, #picture, #title, .oDoba, .linksContainer {
+  filter: blur(0px);
 }
