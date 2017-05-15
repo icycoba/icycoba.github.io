@@ -7,6 +7,7 @@
 
 body {
   background-image: url("gamerpubbg.png");
+  filter: blur(13px);
 }
 
 .basicText {
