@@ -34,6 +34,7 @@
   font-family: 'VT323', monospace;
   font-size: 24px;
   text-align: center;
+  margin: 5px 300px;
   z-index: 9000;
 }
 
@@ -94,14 +95,12 @@
 }
 
 .oDoba {
-  background-color: red;
   text-align: center;
   margin: 20px 600px;
   z-index: 9003;
 }
 
 .oDoba h2 {
-  background-color: gray;
   font-family: 'Press Start 2P', cursive;
   font-size: 32px;
   margin: auto;
@@ -109,7 +108,6 @@
 }
 
 .oDoba li {
-  background-color: cyan;
   font-family: 'VT323', monospace;
   font-size: 32px;
   margin: 5px 0px 0px 0px;
@@ -117,7 +115,6 @@
 }
 
 .oDoba p {
-  background-color: orange;
   font-family: 'VT323', monospace;
   font-size: 24px;
   padding: 5px 10px;
