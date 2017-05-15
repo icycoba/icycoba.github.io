@@ -107,10 +107,11 @@
 
 .oDoba li {
   font-family: 'VT323', monospace;
-  font-size: 24px;
+  font-size: 32px;
+  padding: 5px 0px 0px 0px;
 }
 
 .oDoba p {
   font-family: 'VT323', monospace;
-  font-size: 16px;
+  font-size: 24px;
 }
