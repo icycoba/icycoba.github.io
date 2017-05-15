@@ -43,12 +43,12 @@
   /*border: 1px solid rgba(33, 34, 29, 1);*/
   color: #FFFFFF;
   display: inline-block;
-  margin: 0px 0px 0px auto;
+  margin: 0px 0px 0px 20px;
   padding: 10px;
   text-transform: uppercase;
   text-decoration: none;
   font-family: 'VT323', monospace;
-  font-size: 24px;
+  font-size: 32px;
 }
 
 .links a:hover {
