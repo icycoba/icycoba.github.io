@@ -5,7 +5,7 @@
   /*font-family: Comic Sans MS;*/
 }
 
-.pageBg {
+body {
   background-image: url("gamerpubbg.png");
   filter: blur(13px);
   height: 100%;
@@ -16,28 +16,33 @@
   font-family: 'VT323', monospace;
   font-size: 24px;
   text-align: center;
+  z-index: 9000;
 }
 
 #picture {
   display: block;
   margin: 30px auto;
   border-radius: 100%;
+  z-index: 9001;
 }
 
 #title {
   font-family: 'Press Start 2P', cursive;
   font-size: 48px;
   text-align: center;
+  z-index: 9002;
 }
 
 .oDoba {
   text-align: center;
+  z-index: 9003;
 }
 
 .linksContainer {
   background-color: gray;
   width: 100%;
   text-align: center;
+  z-index: 9004;
 }
 
 /*.links {
@@ -58,6 +63,7 @@
   text-decoration: none;
   font-family: 'VT323', monospace;
   font-size: 32px;
+  z-index: 9005;
 }
 
 .links a:hover {
@@ -65,4 +71,5 @@
   /*border: 1px solid rgba(33, 34, 29, 1);*/
   color: #FFFFFF;
   animation: ease;
+  z-index: 9005;
 }
