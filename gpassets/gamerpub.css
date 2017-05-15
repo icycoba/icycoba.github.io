@@ -20,12 +20,16 @@
 }*/
 
 .pageBg {
-  background: url("gamerpubbgblur.jpg") no-repeat center;
-  background-size: cover;
-  position: absolute;
+  z-index: 1;
+  background-image: url("gamerpubbgblur.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: 1920px 1080px;
   height: 100%;
-  width: 100%;
+  margin: auto;
 }
+
 .basicText {
   font-family: 'VT323', monospace;
   font-size: 24px;
