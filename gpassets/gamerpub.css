@@ -53,7 +53,7 @@
 
 .oDoba {
   text-align: center;
-  margin: 20px auto;
+  margin: auto;
   padding: 20px;
   z-index: 9003;
 }
@@ -108,7 +108,7 @@
 .oDoba li {
   font-family: 'VT323', monospace;
   font-size: 32px;
-  padding: 5px 0px 0px 0px;
+  margin: 5px 0px 0px 0px;
 }
 
 .oDoba p {
