@@ -5,7 +5,7 @@
   /*font-family: Comic Sans MS;*/
 }
 
-body {
+.pageBg {
   background-image: url("gamerpubbg.png");
   filter: blur(13px);
   height: 100%;
