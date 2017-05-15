@@ -30,12 +30,12 @@
   width: 100%;
 }
 
-.links {
+/*.links {
   background-color: cyan;
   width: 100%;
   padding: auto 0px;
   margin: 5px 0px;
-}
+}*/
 
 .links a {
   background: rgba(33, 34, 29, 0.4);
@@ -43,7 +43,7 @@
   color: #FFFFFF;
   display: inline-block;
   margin: 10px 10px;
-  padding: 14px;
+  padding: 10px;
   text-transform: uppercase;
   text-decoration: none;
 }
