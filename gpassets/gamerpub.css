@@ -5,8 +5,10 @@
   /*font-family: Comic Sans MS;*/
 }
 
-div {
-  background-image: url("gamerpubbg.png");
+.pageBg {
+  background: url("gamerpubbg.png") no-repeat center;
+  background-size: cover;
+  position: absolute;
   filter: blur(13px);
   height: 100%;
   width: 100%;
