@@ -47,6 +47,7 @@
   text-transform: uppercase;
   text-decoration: none;
   font-family: 'VT323', monospace;
+  font-size: 32px;
 }
 
 .links a:hover {
