@@ -28,7 +28,7 @@
 .links {
   display: inline-block;
   width: 100%;
-  height: 40px;
   padding: 30px auto;
-  vertical-align: middle;
+  height: 40px;
+  margin: 20px 0px;
 }
