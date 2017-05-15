@@ -51,14 +51,6 @@
   z-index: 9002;
 }
 
-.oDoba {
-  background-color: red;
-  text-align: center;
-  margin: auto;
-  padding: 20px;
-  z-index: 9003;
-}
-
 .linksContainer {
   background-color: gray;
   width: 100%;
@@ -99,6 +91,13 @@
 
 .basicText, #picture, #title, .oDoba, .linksContainer {
   filter: blur(0px);
+}
+
+.oDoba {
+  background-color: red;
+  text-align: center;
+  padding: 20px;
+  z-index: 9003;
 }
 
 .oDoba h2 {
