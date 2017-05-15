@@ -6,7 +6,7 @@
 }
 
 .pageBg {
-  background: url("gamerpubbg.png") no-repeat center;
+  background-image: url("gamerpubbg.png") no-repeat center;
   background-size: cover;
   position: absolute;
   filter: blur(13px);
