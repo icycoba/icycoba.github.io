@@ -73,6 +73,11 @@ ul {
   padding: 5px;
 }
 
+h2 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 24px;
+}
+
 /* .productList {
   background-color: blue;
   position: absolute;
