@@ -67,7 +67,7 @@ ul {
   width: 100%;
 }
 
-.productListUpper, .productListAlcohol, .productListLower {
+.productListUpper, .productListAlcohol, .productListLower, .productListEvenLower {
   width: 500px;
   margin: 5px auto;
   padding: 5px;
