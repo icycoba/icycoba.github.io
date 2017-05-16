@@ -4,6 +4,52 @@
   padding: 0;
 }
 
+ul {
+  list-style-type: none;
+}
+
+.pageBg {
+  z-index: 1;
+  background-image: url("gamerpubbgblur.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 1920px 1080px;
+  height: 100%;
+  margin: auto;
+}
+
+.linksContainer {
+  background-color: gray;
+  width: 100%;
+  text-align: center;
+  z-index: 9004;
+}
+
+.links a {
+  background: rgba(33, 34, 29, 0.4);
+  /*border: 1px solid rgba(33, 34, 29, 1);*/
+  color: #FFFFFF;
+  display: inline-block;
+  margin: 0px 0px 0px 20px;
+  padding: 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'VT323', monospace;
+  font-size: 32px;
+  z-index: 9005;
+  filter: blur(0px);
+}
+
+.links a:hover {
+  background: rgba(33, 34, 29, 1);
+  /*border: 1px solid rgba(33, 34, 29, 1);*/
+  color: #FFFFFF;
+  animation: ease;
+  z-index: 9005;
+  filter: blur(0px);
+}
+
 .name {
   font-weight: bold;
 }
