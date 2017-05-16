@@ -12,6 +12,7 @@
 
 .pageBg {
   z-index: 1;
+  background-color: rgb(67, 81, 203);
   background-image: url("gamerpubbgblur.jpg");
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -25,7 +26,7 @@
 }
 
 .linksContainer {
-  background-color: gray;
+  background-color: rgb(67, 81, 203);
   width: 100%;
   text-align: center;
   z-index: 9004;
