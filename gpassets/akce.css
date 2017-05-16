@@ -17,8 +17,9 @@
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: 1920px 1080px;
-  height: 1000px;
+  height: 100%;
   margin: auto;
+  position: fixed;
 }
 
 .linksContainer {
