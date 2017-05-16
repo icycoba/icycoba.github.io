@@ -61,6 +61,8 @@ ul {
 .product {
   font-family: 'VT323', monospace;
   font-size: 24px;
+  border: 0px 0px 1px 0px;
+  border-style: dotted;
 }
 
 .productList {
@@ -71,6 +73,11 @@ ul {
   width: 500px;
   margin: 5px auto;
   padding: 5px;
+}
+
+.productListUpper li, .productListAlcohol li {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 16px;
 }
 
 h2 {
