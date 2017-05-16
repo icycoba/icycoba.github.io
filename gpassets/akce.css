@@ -1,12 +1,12 @@
 * {
-  border: 1px solid rgb(0, 0, 0);
+  /*border: 1px solid rgb(0, 0, 0);*/
   margin: 0;
   padding: 0;
 }
 
 .fbPage {
   width: 500px;
-  margin: auto;
+  margin: 20px auto;
   padding: 5px;
 }
 
