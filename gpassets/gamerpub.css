@@ -95,6 +95,12 @@ ul {
   filter: blur(0px);
 }
 
+.links #fbLogo {
+  margin: 0px 10px;
+  padding: 0px;
+  float: right;
+}
+
 .basicText, #picture, #title, .oDoba, .linksContainer {
   filter: blur(0px);
 }
