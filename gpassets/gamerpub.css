@@ -101,7 +101,7 @@ ul {
 .oDoba, .kontakt {
   display: block;
   text-align: center;
-  margin: 20px 200px;
+  margin: 20px auto;
   z-index: 9003;
 }
 
