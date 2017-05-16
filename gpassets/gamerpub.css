@@ -98,13 +98,13 @@ ul {
   filter: blur(0px);
 }
 
-.oDoba {
+.oDoba, .kontakt {
   text-align: center;
   margin: 20px 600px;
   z-index: 9003;
 }
 
-.oDoba h2 {
+.oDoba h2, .kontakt h2 {
   font-family: 'Press Start 2P', cursive;
   font-size: 32px;
   margin: auto;
@@ -118,7 +118,7 @@ ul {
   padding: 5px 10px;
 }
 
-.oDoba p {
+.oDoba p, .kontakt p {
   font-family: 'VT323', monospace;
   font-size: 24px;
   padding: 5px 10px;
