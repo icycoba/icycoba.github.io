@@ -58,7 +58,7 @@ ul {
 .slideshow-container {
   max-width: 1000px;
   position: relative;
-  margin: auto;
+  margin: 50px auto;
 }
 
 .mySlides {
