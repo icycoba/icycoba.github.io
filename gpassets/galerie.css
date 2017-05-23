@@ -2,6 +2,7 @@
   /*border: 1px solid rgb(0, 0, 0);*/
   margin: 0;
   padding: 0;
+  box-sizing:border-box;
   /*font-family: Comic Sans MS;*/
 }
 
@@ -54,8 +55,6 @@ ul {
   z-index: 9005;
   filter: blur(0px);
 }
-
-* {box-sizing:border-box}
 
 /* Slideshow container */
 .slideshow-container {
