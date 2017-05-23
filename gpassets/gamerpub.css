@@ -36,9 +36,9 @@ ul {
 }
 
 .basicText {
-  color: rgb(255, 255, 255);
+  /*color: rgb(255, 255, 255);
   background-color: rgba(33, 34, 29, 0.4);
-  border-radius: 5px;
+  border-radius: 5px;*/
   font-family: 'VT323', monospace;
   font-size: 24px;
   text-align: center;
