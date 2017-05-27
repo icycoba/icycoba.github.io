@@ -60,7 +60,7 @@ ul {
 .slideshow-container {
   max-width: 600px;
   position: relative;
-  margin: 50px auto 0px auto;
+  margin: 20px auto 0px auto;
   overflow: auto;
 }
 
@@ -120,7 +120,7 @@ ul {
   cursor:pointer;
   height: 13px;
   width: 13px;
-  margin: 20px 2px 0px 2px;
+  margin: 50px 2px 0px 2px;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
