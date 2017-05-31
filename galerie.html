@@ -97,10 +97,11 @@
           <img src="/gpassets/eleven.JPG" style="width:100%">
           <div class="text">Jedenáctý popisek</div>
     </div>
+    </div>
 <!--
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
-  </div>
+
 <br>
 -->
 
@@ -151,7 +152,6 @@ function showSlides(n) {
   
   var slideIndex = 0;
   carousel();
-                                                 <!---->
 showSlides(slideIndex);
 
 function plusSlides(n) {
@@ -177,7 +177,7 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block"; 
   dots[slideIndex-1].className += " active";
 }
-                                                <!---->
+    
 function carousel() {
     var i;
     var x = document.getElementsByClassName("mySlides");
