@@ -162,9 +162,10 @@ function showSlides(n) {
   function currentSlide(n) {
     showSlides(slideIndex = n);
   }
-    
+  
   var slideIndex = 0;
-carousel();
+  showSlides(slideIndex);
+  carousel();
 
 function carousel() {
     var i;
