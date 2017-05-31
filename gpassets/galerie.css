@@ -59,7 +59,7 @@ ul {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 600px;
+  max-width: 1000px;
   position: relative;
   margin: 20px auto 0px auto;
   overflow: auto;
