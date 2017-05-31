@@ -75,8 +75,8 @@ ul {
   position: absolute;
   top: 50%;
   width: auto;
-  margin-top: -22px;
-  padding: 50px 16px;
+  /*margin-top: -22px;*/
+  padding: 100% 16px;
   color: white;
   font-weight: bold;
   font-size: 18px;
