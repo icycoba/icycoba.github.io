@@ -62,6 +62,8 @@ ul {
 .product {
   font-family: 'VT323', monospace;
   font-size: 24px;
+  background-color: rgba(33, 34, 29, 0.4);
+  color: rgb(255, 255, 255);
   border: 0px 0px 1px 0px;
   border-style: dotted;
   margin: 5px 0px 0px 0px;
