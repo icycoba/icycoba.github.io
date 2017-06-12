@@ -55,6 +55,7 @@ ul {
 }
 
 #title {
+  color: rgb(158, 158, 158);
   font-family: 'Press Start 2P', cursive;
   font-size: 48px;
   text-align: center;
